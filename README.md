@@ -1,2 +1,2 @@
 # Data
-FootballData
+Init empty project.
